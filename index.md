@@ -1,7 +1,27 @@
+<style>
+/* Keep content narrow for readability */
+main, .container-lg, .markdown-body { max-width: 800px; margin: auto; }
+
+/* Profile image as a circle */
+.profile {
+  display: block;
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 12px 0 8px 0;
+}
+
+/* Tighten link list spacing under Connect */
+.connect-list a { text-decoration: none; }
+</style>
+
+
 # Hosung Kim
 **USC Business Analytics Student | Data Science · AI · Machine Learning · Deep Learning**
 
-<img src="/assets/profile.jpg" alt="Profile photo of Hosung Kim" width="180" style="border-radius:50%; margin:20px 0;">
+<img src="/assets/profile.jpg" alt="Profile photo of Hosung Kim" class="profile">
+
 
 ---
 
