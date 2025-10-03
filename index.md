@@ -16,6 +16,8 @@ main, .container-lg, .markdown-body { max-width: 800px; margin: auto; }
 .connect-list a { text-decoration: none; }
 </style>
 
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 
 # Hosung Kim
 **USC Business Analytics Student | Data Science · AI · Machine Learning · Deep Learning**
@@ -26,7 +28,7 @@ main, .container-lg, .markdown-body { max-width: 800px; margin: auto; }
 ---
 
 ## Welcome
-I am a undergraduate student at the University of Southern California majoring in Business Administration with a focus on **data science and analytics**.  
+I am an undergraduate student at the University of Southern California majoring in Business Administration with a focus on **data science and analytics**.  
 My work bridges **quantitative research** and **practical business strategy**, with experience in predictive modeling, neural networks, and applied analytics projects in finance, healthcare, and retail.  
 
 I am passionate about exploring how **AI, machine learning, and deep learning** can drive better decisions in business and investment. My portfolio demonstrates a mix of academic research and practical projects that showcase both **technical skills** and **strategic thinking**.
